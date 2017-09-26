@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DGS-Trainer</string>
+    <string name="startpage_button_1">Lektion 1</string>
+    <string name="startpage_button_2">Lektion 2</string>
+    <string name="startpage_button_3">Lektion 3</string>
+    <string name="startpage_button_4">Lektion 4</string>
+    <string name="startpage_button_5">Lektion 5</string>
+    <string name="startpage_button_6">Lektion 6</string>
+    <string name="startpage_button_7">Lektion 7</string>
+    <string name="startpage_button_8">Vokabelbox</string>
+    <string name="lessons_startpage_1">Vokabeln ansehen</string>
+    <string name="lessons_startpage_2">Vokabeln trainieren</string>
+    <string name="lessons_startpage_3">Vokabelbox</string>
+    <string name="lessons_startpage_4">Grammatik</string>
+
+</resources>
