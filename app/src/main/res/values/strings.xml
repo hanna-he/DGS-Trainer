@@ -13,4 +13,16 @@
     <string name="lessons_startpage_3">Vokabelbox</string>
     <string name="lessons_startpage_4">Grammatik</string>
 
+    <string name="word1">Köln</string>
+    <string name="word2">Vater</string>
+    <string name="word3">Mutter</string>
+    <string name="word4">Schwester</string>
+    <string name="word5">Blume</string>
+    <string name="word6">Wald</string>
+    <string name="word7">Schwester</string>
+    <string name="word8">Blume</string>
+    <string name="word9">Wald</string>
+    <string name="word10">Schwester</string>
+    <string name="word11">Blume</string>
+    <string name="word12">Wald</string>
 </resources>
