@@ -26,9 +26,9 @@
         <activity android:name="Lesson3Activity"
             android:parentActivityName=".MainActivity">
         </activity>
-        <activity android:name="ViewVocabularyActivity"
-            android:parentActivityName=".MainActivity">
+        <activity android:name="ViewVocabularyActivity">
         </activity>
+
     </application>
 
 
