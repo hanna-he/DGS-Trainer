@@ -36,7 +36,7 @@
         android:layout_gravity="center"
         android:layout_weight="0.1"
         android:drawableRight="@drawable/ic_info"
-        android:text="Eselsbrücke"/>
+        android:text="Eselsbrücke" />
 
     <Button
         android:id="@+id/show_word_button_2"
@@ -45,7 +45,7 @@
         android:layout_gravity="center"
         android:layout_weight="0.1"
         android:drawableRight="@drawable/ic_language"
-        android:text="Beispiel"/>
+        android:text="Beispiel" />
 
     <Button
         android:id="@+id/show_word_button_3"
@@ -54,7 +54,7 @@
         android:layout_gravity="center"
         android:layout_weight="0.1"
         android:drawableRight="@drawable/ic_more_horiz"
-        android:text="weitere Dialekte"/>
+        android:text="weitere Dialekte" />
 
     <LinearLayout
         android:layout_width="match_parent"

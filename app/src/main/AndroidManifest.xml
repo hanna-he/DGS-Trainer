@@ -17,17 +17,16 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="Lesson1Activity"
-            android:parentActivityName=".MainActivity" >
-        </activity>
-        <activity android:name="Lesson2Activity"
-            android:parentActivityName=".MainActivity">
-        </activity>
-        <activity android:name="Lesson3Activity"
-            android:parentActivityName=".MainActivity">
-        </activity>
-        <activity android:name="ViewVocabularyActivity">
-        </activity>
+        <activity
+            android:name="Lesson1Activity"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity
+            android:name="Lesson2Activity"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity
+            android:name="Lesson3Activity"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name="ViewVocabularyActivity"></activity>
 
     </application>
 
